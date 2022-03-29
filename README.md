@@ -3,7 +3,7 @@
 winget upgrade JanDeDobbeleer.OhMyPosh
 </code>
 <br/>
-- if winget not support on your system then try it -
+- if winget not support on your system then try it -<br/><br/>
 <code>
 Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
