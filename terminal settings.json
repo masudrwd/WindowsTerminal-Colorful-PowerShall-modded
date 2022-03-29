@@ -55,9 +55,9 @@
                 {
                     "face": "CaskaydiaCove NF"
                 },
-                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "guid": "{5fb123f1-af88-5b5c-8953-d14a8def1978}",
                 "hidden": false,
-                "name": "Windows PowerShell"
+                "name": "PowerShell 7"
             },
             {
                 "commandline": "cmd.exe",
@@ -84,13 +84,8 @@
                 {
                     "face": "CaskaydiaCove NF"
                 },
-                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-                "hidden": false,
-                "name": "PowerShell",
-                "source": "Windows.Terminal.PowershellCore"
-            },
-            {
                 "guid": "{5fb123f1-af88-5b5c-8953-d14a8def1978}",
+                "hidden": false,
                 "name": "PowerShell 7",
                 "source": "Windows.Terminal.PowershellCore"
             }
