@@ -1,7 +1,7 @@
 # 1. install with winget -
-
+<code>
 winget upgrade JanDeDobbeleer.OhMyPosh
-
+</code>
 # - if winget not support on your system then try it -
 
 Install-Module posh-git -Scope CurrentUser
